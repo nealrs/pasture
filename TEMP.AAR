@@ -1,0 +1,114 @@
+<html>
+<title>Suggestions</title>
+
+
+    <body background="http://www.cs.cmu.edu/afs/andrew.cmu.edu/usr/ms7o/yellow_w.gif">
+
+<h2>I CRAVE SUGGESTIONS</h2>
+<FORM METHOD=POST
+      ACTION="mailto:nshyam@mufasa.wt.k12.pa.us">
+Please tell me what you like about the pasture, your comments are uh. well needed to help me make a better pasture for you!!!
+<br>
+Thanks.<br>
+<br><br>
+PLEASE FILL THE FORM OUT!!!<br><br>
+
+<TABLE CELLPADDING=1 BORDER=8>
+
+<TR ALIGN=CENTER>
+
+
+
+
+<td><INPUT TYPE=radio NAME=lgrafix VALUE=yes>
+Less graphics (you wish)<br></td>
+</TR>
+<TR ALIGN=CENTER>
+<td><INPUT TYPE=radio NAME=grafix VALUE=yes>
+More graphics for the page<br></td>
+</tr>
+<TR ALIGN=CENTER>
+<td><INPUT TYPE=radio NAME=40k VALUE=yes>
+More 40k<br></td>
+</tr>
+<TR ALIGN=CENTER>
+<td><INPUT TYPE=radio NAME=me VALUE=yes>
+Less me (fooled ya didn't I)<br></td>
+</tr>
+<TR ALIGN=CENTER>
+<td><INPUT TYPE=radio NAME=phot VALUE=yes>
+ More scanned images<br></td>
+</tr>
+</table>
+<br>
+<br>
+
+Army Preference if you play 40k?
+<select NAME=army>
+  <OPTION SELECTED> Space Marines
+  <OPTION> Imperial Guard
+  <OPTION> Squats
+  <OPTION> Eldar
+  <OPTION> Orks
+  <OPTION> Chaos
+  <OPTION> Tyranid
+  <OPTION> I don't care
+</select><br><br>
+
+What is your favorite house in Dune?
+<select NAME=army>
+  <OPTION SELECTED>Atreides
+  <OPTION>Harkonen
+  <OPTION>Ordos
+  <OPTION>Other
+  <OPTION> I don't care
+  </select><br><br></td>
+
+Tell me whats cool and not cool about the really cool pasture (try saying that 5 times fast!)
+<br
+<br>
+<textarea NAME=comments COLS=50 ROWS=5>
+</textarea><br>
+
+<INPUT TYPE=submit VALUE="send me this thing">
+<INPUT TYPE=reset VALUE="clear this thing">
+</FORM>
+
+
+
+
+<h2>This Page is maintained by Neal Shyam copyright 1995</h2>
+
+<img align=bottom src="http://www.cs.cmu.edu/afs/andrew.cmu.edu/usr/ms7o/constr.gif">
+
+<address> <a href="mailto:nshyam@winchester.pp.psc.edu">nshyam@winchester.pp.psc.edu</a></address>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+

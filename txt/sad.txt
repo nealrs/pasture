@@ -1,0 +1,27 @@
+<title>I'm Sad</title>
+
+<h1>I'm Sad</h1>
+
+<img align=bottom src="file:///A%7C/GIF/FACESAD.GIF">
+
+<h2>This is the place to go when your sad, you can pick up a few jokes, make someone else sad and then you can be happy!!</h2>
+
+<h1>"Your Mama..."Jokes!!</h1>
+
+<p>Your mama so stupid she thought Boyz II Men was a daycare center!!</p>
+<p></p>
+<p></p>
+<p></p>
+
+
+<img align=bottom src="file:///A%7C/GIF/ATWORK2.GIF">
+
+<h2>This part of the Pasture is still under construction so come back in a few day's!!</h2>
+
+<a href="file:///A|/HOME.TXT">Return to the Pasture</a>
+
+<h2>This Page is Maintained by Neal Shyam Copyright 1995</h2>
+
+<img align=bottom src="file:///A%7C/GIF/CONSTR.GIF">
+
+

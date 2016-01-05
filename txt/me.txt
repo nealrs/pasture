@@ -1,0 +1,44 @@
+<title>ME!!!</title>
+
+<h1>ME!!!</h1> <img align=bottom src="file:///A%7C/GIF/CRITICGO.GIF">
+
+
+
+<p>This is where you get to learn about ME! ( YIPPEE KI AYE! [NOT] )</p>
+
+<h2>WHO AM I?</h2>
+
+<p>My name is Neal Shyam. </p>
+
+<h2>WHERE DO I LIVE?</h2>
+
+<p>I live in Pittsburgh PA the steel city.</p>
+
+<h2>RELIGION</h2>
+
+<p> I am Indian and I am Hindu, I speak a little Hindi.</p>
+
+<h2>WHERE DO I GO TO SCHOOL</h2>
+
+<p>I go to Winchester Thurston (yes it's a private school.)</p>
+
+<h2>HOBBIES</h2>
+
+<p>My hobbies are computers, electronics, and <a href=" file:///A%7C/40K.TXT ">Warhammer 40k</a></p>
+
+<h2>WHAT'S MY E-MAIL ADDRESS?</h2>
+
+<p>You can contact me at nshyam@winchester.psc.pp.edu</p>
+
+<h2>Well that about Wraps up things, thanks for grazing at this part of the pasture.</h2>
+
+<a href="file:///A|/HOME.TXT">Return to the pasture</a>
+
+<h2>This Page is Maintained by Neal Shyam Copyright 1995</h2>
+
+<img align=bottom src="file:///A%7C/GIF/CONSTR.GIF">
+
+
+
+
+
